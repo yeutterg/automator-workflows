@@ -61,7 +61,7 @@ To use:
 1. Select an image or multiple images
 2. Right-click or Command-click the selection
 3. Under Services, select Resize...
-4. In the dialog box that appears，select the width of the target image（s）
+4. In the dialog box that appears，select the width of the target image(s) and click OK or hit return
 5. A new file will appear in the same folder but with a slug of _XXXpx and matching size
 
 [Demo Video](https://youtu.be/fUT4T3w-fzc)
