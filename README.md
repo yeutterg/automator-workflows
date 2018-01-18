@@ -26,7 +26,7 @@ This page details services I've developed that you can install and use on your o
 * [File Services](#file)
 * [Text Services](#text)
 
-## Installation and Use
+## <a name="installation"></a> Installation and Use
 
 1. From this page, download the workflows by clicking Clone or Download > Download ZIP.
 
@@ -50,7 +50,7 @@ You should be all set. See the descriptions and videos below for more info on ho
 
 If you find a bug or need help, please [contact me](https://gregyeutter.com/contact/) or report an issue on this page.
 
-## Image Services
+## <a name="image"></a> Image Services
 
 ### Resize Image
 
@@ -62,7 +62,7 @@ If you find a bug or need help, please [contact me](https://gregyeutter.com/cont
 
 ### Duplicate as JPG
 
-## PDF Services
+## <a name="pdf"></a> PDF Services
 
 ### Split PDF
 
@@ -74,24 +74,54 @@ Combines multiple selected PDF files into one.
 
 ### Extract PDF Text
 
-Extracts the text from a PDF and saves it to a text file of the same name. Note that the PDF must have OCR enabled for this to work.
+Extracts the text from a PDF and saves it to a text file of the same name. Note that the PDF must have selectable text for this to work.
 
-## File Services
+## <a name="file"></a> File Services
 
 ### New File
 
-This creates an empty file in the current directory. You specify the filename, including extension, in the dialog box that appears. Note that this only works for Unicode text file formats like .txt, .md, and .html. It will not work for something like .xlsx or .docx.
+Creates an empty file in the current directory. You specify the filename, including extension, in the dialog box that appears. Note that this only works for Unicode text file formats like .txt, .md, and .html. It will not work for something like .xlsx or .docx.
+
+To use:
+1. Select a file or folder
+2. Right-click or Command-click the selection
+3. Under Services, select New File
+4. Specify the filename, including extension, in the dialog box that appears
+5. Click OK or press return
+
+[Video](https://youtu.be/v5Zr9pRmVBY)
 
 ### Add YYYY-MM-DD Prefix
 
-This adds today's date in YYYY-MM-DD format as a prefix to the selected filename(s).
+Adds today's date in YYYY-MM-DD format as a prefix to the selected filename(s) or folder name(s).
 
-## Text Services
+To use:
+1. Select one or multiple files or folders
+2. Right-click or Command-click the selected files(s) or folder(s)
+3. Under Services, select Add YYYY-MM-DD Prefix
+
+[Video](https://youtu.be/NbmmlnBoBj8)
+
+## <a name="text"></a> Text Services
 
 ### Count Words
 
 Counts the number of highlighted words.
 
+To use:
+1. Select text
+2. Right-click or Command-click the selected text
+3. Under Services, select Count Words
+
+[Video](https://youtu.be/pBuI8H2Hmic)
+
 ### Get Definition
 
-Opens Dictionary.app with the highlighted text as the query. This gives you more options that force-clicking or right-clicking and selecting Look Up.
+Opens Dictionary.app with the highlighted text as the query. This gives you more flexibility than the force-click/right-click Look Up menu, as it opens the whole Dictionary app.
+
+To use:
+1. Select a word or phrase
+2. Right-click or Command-click the selected text
+3. Under Services, select Get Definition
+
+[Video](https://youtu.be/D2Acih-eMVY)
