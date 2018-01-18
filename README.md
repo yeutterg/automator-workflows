@@ -6,6 +6,8 @@ Updated 2018-01-17
 
 [Automator](https://macosxautomation.com/automator/) is an application bundled with MacOS that allows you to save time by automating repetitive, time-consuming tasks. 
 
+This page details services I've developed that you can install and use on your own Mac.
+
 Some examples include:
 * Splitting and combining PDFs
 * Batch resizing images
@@ -16,8 +18,6 @@ Some examples include:
 ![Example Workflow](./Images/Resize.png)
 
 You can perform all these actions without even opening applications. Just right-click (control-click) a file or folder, and valid operations will be found in the Services menu. The services work system-wide, including in Finder and text areas.
-
-This page details services I've developed that you can install and use on your own Mac.
 
 ## Table of Contents
 * [Installation and Use](#installation)
