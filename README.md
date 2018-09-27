@@ -53,13 +53,15 @@ I occasionally update this page with new scripts and changes to existing scripts
 
 You should be all set. See the descriptions and videos below for more info on how to use these workflows.
 
-If you find a bug or need help, please [contact me](https://gregyeutter.com/contact/) or report an issue on this page.
+If you find a bug or need help, please [contact me](https://gregyeutter.com/connect) or report an issue on this page.
 
 ## <a name="image"></a> Image Services
 
 ### Resize 
 
-Creates a copy of an image or images and scales to a specific pixel width. *NOTE:* The resulting image is not as high quality as one generated in an image editor, e.g. Photoshop. This is better for quick tasks for which quality is not a priority.
+Creates a copy of an image or images and scales to a specific pixel width. 
+
+**NOTE:** The resulting image is not as high quality as one generated in an image editor, e.g. Photoshop. This is better for quick tasks for which quality is not a priority.
 
 To use:
 1. Select an image or multiple images
