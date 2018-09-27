@@ -1,6 +1,6 @@
 # MacOS Automator Workflows
 
-Updated 2018-01-17
+Updated 2018-09-27
 
 ## Overview
 
@@ -18,6 +18,10 @@ Some examples include:
 ![Example Workflow](./Images/Resize.png)
 
 You can perform all these actions without even opening applications. Just right-click (control-click) a file or folder, and valid operations will be found in the Services menu. The services work system-wide, including in Finder and text areas.
+
+## Newsletter
+
+I occasionally update this page with new scripts and changes to existing scripts. [Sign up](https://mailchi.mp/96b4aba92716/macos) to be notified of updates.
 
 ## Table of Contents
 * [Installation and Use](#installation)
@@ -55,7 +59,7 @@ If you find a bug or need help, please [contact me](https://gregyeutter.com/cont
 
 ### Resize 
 
-Creates a copy of an image or images and scales to a specific pixel width.
+Creates a copy of an image or images and scales to a specific pixel width. *NOTE:* The resulting image is not as high quality as one generated in an image editor, e.g. Photoshop. This is better for quick tasks for which quality is not a priority.
 
 To use:
 1. Select an image or multiple images
